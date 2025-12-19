@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 13/12/2025
+## Date: 18/12/2025
 ## Reference 25009157
 
 ## AIM
@@ -171,11 +171,11 @@ marina.html
 
 ## OUTPUT
 
-<img width="1920" height="1020" alt="Screenshot 2025-12-19 111928" src="https://github.com/user-attachments/assets/ee9ed452-8cb8-44c7-b4c6-6d1e021e5721" />
-<img width="1920" height="1020" alt="Screenshot 2025-12-19 111615" src="https://github.com/user-attachments/assets/c66df87c-5b10-4c88-bc2a-52b1c0f68d6c" />
-<img width="1920" height="1020" alt="Screenshot 2025-12-19 111634" src="https://github.com/user-attachments/assets/8277d7f8-e0b0-4d79-9dd9-9b78a0ed25e6" />
-<img width="1920" height="1020" alt="Screenshot 2025-12-19 111711" src="https://github.com/user-attachments/assets/51f4380d-45d7-44b3-b45c-c8e6f1be3989" />
-<img width="1920" height="1020" alt="Screenshot 2025-12-19 111804" src="https://github.com/user-attachments/assets/6cfd83ec-ec6c-4316-a096-f1641b6afcda" />
+<img width="1290" height="793" alt="Screenshot 2025-12-19 111928" src="https://github.com/user-attachments/assets/9ed07225-1cc2-4ced-b082-b11646a81d88" />
+<img width="1509" height="718" alt="Screenshot 2025-12-19 111615" src="https://github.com/user-attachments/assets/78356a00-f161-40ab-9eeb-e8e95004f2a1" />
+<img width="1464" height="704" alt="Screenshot 2025-12-19 111634" src="https://github.com/user-attachments/assets/6aeb6eb7-5775-4e30-8caa-bc5879056d3c" />
+<img width="1476" height="700" alt="Screenshot 2025-12-19 111711" src="https://github.com/user-attachments/assets/f7211911-2bd1-49b6-be69-f776536fe853" />
+<img width="1460" height="712" alt="Screenshot 2025-12-19 111804" src="https://github.com/user-attachments/assets/95251f70-dbbc-43dc-8db5-21eab3b674f7" />
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
